@@ -1,0 +1,214 @@
+{
+    "name": "Marker Controller Input Assets",
+    "maps": [
+        {
+            "name": "Marker Controller Input Assets",
+            "id": "42fd4dac-a763-44e0-a2e7-410089778528",
+            "actions": [
+                {
+                    "name": "isLeftTriggerButton",
+                    "type": "Button",
+                    "id": "862123ce-ca06-41d4-b02e-f854145fdd67",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "isLeftTouchButton",
+                    "type": "Button",
+                    "id": "a0cc25b8-29ef-4d86-a831-7546f258b425",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "isLeftAppButton",
+                    "type": "Button",
+                    "id": "84915375-c9f1-4136-a8ad-aaa1c4750dba",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "isLeftHomeButton",
+                    "type": "Button",
+                    "id": "2263f1c7-fc58-40d3-9506-64f667a5347e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LeftTriggerValue",
+                    "type": "Value",
+                    "id": "b1f02f8d-5185-4d1d-8e8a-a8a957b3dc8b",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "isRightTriggerButton",
+                    "type": "Button",
+                    "id": "cc80db08-8a38-47c5-a8a4-e4f5a6a235c4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "isRightTouchButton",
+                    "type": "Button",
+                    "id": "462b0681-a510-4f1a-89f6-d60093dc0d29",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "isRightAppButton",
+                    "type": "Button",
+                    "id": "2031c2b3-e5b6-4f29-8aea-abdee13fcebd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "isRightHomeButton",
+                    "type": "Button",
+                    "id": "c257e84e-49a5-4cf0-9d01-ace0f55d054d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RightTriggerValue",
+                    "type": "Value",
+                    "id": "bde1f64b-990d-47e9-b9f4-1234fd576a74",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d842b50f-1cbc-44fd-b0b3-eecb68930b11",
+                    "path": "<MarkerControllerInput>/isLeftTriggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "isLeftTriggerButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9edb1222-72aa-452d-bc17-53318efddd7c",
+                    "path": "<MarkerControllerInput>/isLeftTouchButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "isLeftTouchButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e8ef16d6-7dec-4fc1-8512-e004f6ead5eb",
+                    "path": "<MarkerControllerInput>/isLeftAppButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "isLeftAppButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a9fc0899-8808-4862-9eda-d2a0af90d423",
+                    "path": "<MarkerControllerInput>/isLeftHomeButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "isLeftHomeButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4d984611-4720-47ba-bdbd-78eb7418e748",
+                    "path": "<MarkerControllerInput>/LeftTriggerValue",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftTriggerValue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d68a1685-7b5d-4dfe-b015-31da75bd598f",
+                    "path": "<MarkerControllerInput>/isRightTriggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "isRightTriggerButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "583b7a5d-d9cb-48be-b9f5-96218fefe660",
+                    "path": "<MarkerControllerInput>/isRightTouchButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "isRightTouchButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "75d2a4ea-52ae-4f73-9ab0-7b59946243ac",
+                    "path": "<MarkerControllerInput>/isRightAppButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "isRightAppButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "07c7b821-1220-4340-b470-683ad27309f3",
+                    "path": "<MarkerControllerInput>/isRightHomeButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "isRightHomeButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "37ee6372-dcfb-4e6e-84c7-187f7faa0547",
+                    "path": "<MarkerControllerInput>/LeftTriggerValue",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightTriggerValue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

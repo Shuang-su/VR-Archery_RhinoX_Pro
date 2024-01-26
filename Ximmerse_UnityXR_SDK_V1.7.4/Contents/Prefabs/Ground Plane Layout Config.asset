@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adc2d5aac78f6f540a0f6e398e1a3340, type: 3}
+  m_Name: Ground Plane Layout Config
+  m_EditorClassIdentifier: 
+  layout:
+    groundPlaneGroups:
+    - groupIndex: 0
+      groundPlanes:
+      - id: 66
+        mode: 0
+        position: {x: 0, y: 0, z: -3}
+        euler: {x: 0, y: 0, z: 0}
+        technicalParameter:
+          drift_recenter_angle_threshold: 1
+          drift_recenter_distance_threshold: 1
+          confidence_thresh: 0.5
+          max_distance_thresh: 1.8
+          min_distance_thresh: 0.1
